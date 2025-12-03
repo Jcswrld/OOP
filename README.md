@@ -92,6 +92,63 @@ Polymorphism is applied through method overriding in the subclasses. All task ty
 Choose an option: 
 </pre>
 
+<h2>‧₊˚ ┊ 👥 Contributors</h2>
+
+<table align="center">
+  <tr>
+    <th>Avatar</th>
+    <th>Name</th>
+    <th>Role</th>
+  </tr>
+
+  <!-- Contributor 1 -->
+  <tr>
+    <td>
+      <img src="https://cdn.pixabay.com/photo/2021/10/15/00/00/avatar-6707937_960_720.png" width="120" alt="Avatar 1">
+    </td>
+    <td>
+      <strong>Ramirez, Jhon Victor</strong><br>
+    </td>
+    <td>Project Leader</td>
+  </tr>
+
+  <!-- Contributor 2 -->
+  <tr>
+    <td>
+      <img src="https://cdn.pixabay.com/photo/2024/05/30/12/00/avatar-8794107_960_720.png" width="120" alt="Avatar 2">
+    </td>
+    <td>
+      <strong>Egle, Keihl Axell</strong><br>
+    </td>
+    <td>Member</td>
+  </tr>
+
+  <!-- Contributor 3 -->
+  <tr>
+    <td>
+      <img src="https://cdn.pixabay.com/photo/2021/01/16/15/00/toy-5905830_960_720.png" width="120" alt="Avatar 3">
+    </td>
+    <td>
+      <strong>Mayuga, Mark Jc</strong><br>
+    </td>
+    <td>Member</td>
+  </tr>
+
+  <!-- Contributor 4 -->
+  <tr>
+    <td>
+      <img src="https://cdn.pixabay.com/photo/2021/01/16/15/00/toy-5905830_960_720.png" width="120" alt="Avatar 3">
+    </td>
+    <td>
+      <strong>Maranan, Lloyd Rasmus </strong><br>
+    </td>
+    <td>Member</td>
+  </tr>
+  
+
+</table>
+
+
 
 
     
