@@ -148,6 +148,12 @@ Choose an option:
 
 </table>
 
+<h2>‧₊˚ ┊ 👥 Contributors</h2>
+<h5>We sincerely express our gratitude to our instructor for the guidance and support provided throughout the completion of this project. We also extend our appreciation to our classmates and peers for their cooperation and encouragement during the development process.</h5>
+<hr style="width:60%; margin:auto;">
+<h3>DISCLAIMER</h3>
+<h5>This project and its contents are provided for example and learning purposes only. Students are encouraged to use it as a reference and not copy it in its entirety.</h5>
+
 
 
 
